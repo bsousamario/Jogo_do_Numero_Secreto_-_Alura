@@ -1,5 +1,6 @@
 # projeto_alura-logica-js-curso2
 Projeto 2 do curso de lógica de programação do curso online Alura
+Testando alteração via commit e push
 
 <h1>Jogo do número secreto</h1>
 
