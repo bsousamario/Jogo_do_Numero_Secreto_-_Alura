@@ -1,10 +1,3 @@
-
-// Projeto do curso de Lógica de Programação da Alura
-
-let testeDoVsCodeWeb = "Teste Feliz"
-
-console.log(testeDoVsCodeWeb);
-
 let listaDeNumerosSorteados = [];
 let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
